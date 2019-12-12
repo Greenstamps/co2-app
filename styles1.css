@@ -1,0 +1,27 @@
+header {
+    background: rgb(105, 199, 105);
+    padding: 3px;
+}
+body {
+    background: rgba(136, 173, 33, 0.671); 
+    color: rgba(55, 39, 124, 0.747);
+    margin: 2px;
+    padding: 10 px;
+    text-align: center ;
+    ;
+}
+section {
+    background: rgb(240, 162, 162);
+    padding: 5px;
+    margin: 50px;
+
+    text-align: center ;
+}
+
+
+.box { border: 1px solid rgb(76, 230, 143); background: rgb(6, 180, 82);}
+.mg-large {margin: 10px; text-align: center; font-family: Arial, Helvetica, sans-serif;}
+.pd-large {padding: 10px;align-self: center;font-family: Arial, Helvetica, sans-serif;}
+
+.mg-small {margin: 3px; text-align: center;font-family: Arial, Helvetica, sans-serif;}
+.pd-small {padding: 2px;align-self: center;font-family: Arial, Helvetica, sans-serif;}
